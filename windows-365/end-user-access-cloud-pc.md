@@ -103,7 +103,17 @@ When you select **Open in browser** for a Cloud PC on the windows365.microsoft.c
 2. Select **Show advanced settings** to see the following options:
     - [Alternative keyboard layout](#alternative-keyboard-layout)
 3. Select **Connect**. The Cloud PC opens in the web client (browser).
+   
+Inside the cloud PC you can change the **In Session Settings** that you set at the begining going to: 
+1.  Settings button
+2.  In session settings button
+3.  Modify your settings
+4.  Click update
+5.  Choose to reconnect now or later
+   ![Modify in session settings.](media/end-user-access-cloud-pc/insessionsteps.png)
 
+
+Then you will need to sign in to your Cloud PC with your credentials. 
 ### User feedback
 
 Users can provide feedback about their Cloud PC experience by using the feedback icon in the upper right corner.
