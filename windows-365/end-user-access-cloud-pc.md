@@ -103,6 +103,7 @@ When you select **Open in browser** for a Cloud PC on the windows365.microsoft.c
 2. Select **Show advanced settings** to see the following options:
     - [Alternative keyboard layout](#alternative-keyboard-layout)
 3. Select **Connect**. The Cloud PC opens in the web client (browser).
+4. 
 
 ### User feedback
 
